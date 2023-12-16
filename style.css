@@ -1,6 +1,6 @@
 body {
     background-color: black;
- }
+  }
   h1 {
     text-transform: uppercase;
     font-size: 3rem;
@@ -19,5 +19,4 @@ body {
     border: 5px solid white;
     width: 100%;
   }
-  
   
